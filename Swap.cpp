@@ -5,15 +5,15 @@ int main()
 {
     // How to swap two Numbers
 
-    /* int num1, num2, temp, sum;
+    int num1, num2, temp, sum;
 
     cout << "Enter First Number: ";
     cin >> num1;
     cout << "Enter second Number: ";
-    cin >> num2; */
+    cin >> num2;
 
     // swap The Number
-    /* temp = num1;
+    temp = num1;
     num1 = num2;
     num2 = temp;
 
@@ -23,7 +23,7 @@ int main()
     cout << "First Number: " << num1 << endl;
     cout << "Second Number: " << num2 << endl;
     cout << "Sum of the two Numbers: " << sum << endl;
- */
+
     // How to swap There Numbers
 
     int Num1, Num2, Num3, temp, sum;
